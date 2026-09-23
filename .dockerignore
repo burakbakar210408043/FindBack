@@ -1,3 +1,4 @@
 **
 !Dockerfile
 !deploy-src.part*
+!deploy-fix.*
